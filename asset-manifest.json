@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/aiden-restaurant/static/css/main.22f51a67.css",
+    "main.js": "/aiden-restaurant/static/js/main.b6cbab10.js",
+    "static/media/meal.mp4": "/aiden-restaurant/static/media/meal.a1b6c6dc67dfa2f99343.mp4",
+    "static/media/bg.png": "/aiden-restaurant/static/media/bg.3d421b1b5682e1b67deb.png",
+    "static/media/laurels.png": "/aiden-restaurant/static/media/laurels.c726685e30c786f7285b.png",
+    "static/media/findus.png": "/aiden-restaurant/static/media/findus.db243bec7fd45f395a5c.png",
+    "static/media/welcome.png": "/aiden-restaurant/static/media/welcome.ebbc7ad661aea041a1b1.png",
+    "static/media/menu.png": "/aiden-restaurant/static/media/menu.a8287c67809afebcc280.png",
+    "static/media/chef.png": "/aiden-restaurant/static/media/chef.6768fa03d37ac4e78636.png",
+    "static/media/gallery02.png": "/aiden-restaurant/static/media/gallery02.737448de9ec98d36d118.png",
+    "static/media/gallery03.png": "/aiden-restaurant/static/media/gallery03.2f2e9588e5197a19a917.png",
+    "static/media/gallery04.png": "/aiden-restaurant/static/media/gallery04.7bc4cbbe3464b5794a26.png",
+    "static/media/gallery01.png": "/aiden-restaurant/static/media/gallery01.37541aa792919f545ac3.png",
+    "static/media/knife.png": "/aiden-restaurant/static/media/knife.1121c0a5afb62acb31cb.png",
+    "static/media/overlaybg.png": "/aiden-restaurant/static/media/overlaybg.165362eea72d1614ae28.png",
+    "static/media/sign.png": "/aiden-restaurant/static/media/sign.1866c5f8260de736f2dd.png",
+    "static/media/navbar_logo.png": "/aiden-restaurant/static/media/navbar_logo.ed8b7f3a1bba5564d64d.png",
+    "static/media/G.png": "/aiden-restaurant/static/media/G.b571eb82e589ec305ec9.png",
+    "static/media/logo.png": "/aiden-restaurant/static/media/logo.0286194c03de0a90dac9.png",
+    "static/media/award02.png": "/aiden-restaurant/static/media/award02.8bbdd51499739653b003.png",
+    "static/media/award05.png": "/aiden-restaurant/static/media/award05.48a7f5206184009dcb29.png",
+    "static/media/award01.png": "/aiden-restaurant/static/media/award01.361a4bc44b59b55abeda.png",
+    "static/media/award03.png": "/aiden-restaurant/static/media/award03.3f7ee934c17dccbd5fc6.png",
+    "index.html": "/aiden-restaurant/index.html",
+    "static/media/spoon.svg": "/aiden-restaurant/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
+    "main.22f51a67.css.map": "/aiden-restaurant/static/css/main.22f51a67.css.map",
+    "main.b6cbab10.js.map": "/aiden-restaurant/static/js/main.b6cbab10.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22f51a67.css",
+    "static/js/main.b6cbab10.js"
+  ]
+}
